@@ -1,4 +1,4 @@
-const CACHE_NAME = 'academia-agrometal-v5';
+const CACHE_NAME = 'academia-agrometal-v6';
 
 // Rutas relativas a la carpeta 'site' que entiende el servidor web de GitHub
 const urlsToCache = [
