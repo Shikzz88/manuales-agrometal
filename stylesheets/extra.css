@@ -1,0 +1,10 @@
+/* Color oficial de la barra superior */
+[data-md-color-primary="amber"] .md-header {
+    background-color: #fdb813; /* Este es un amarillo "maquinaria" estándar, podés ajustarlo */
+    color: #000000; /* Letras negras para que resalten en el amarillo */
+}
+
+/* Ajuste para que los íconos del buscador también sean negros */
+[data-md-color-primary="amber"] .md-header__button {
+    color: #000000;
+}
